@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prajwal-lonkar
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning React with TypeScript
-- 📫 How to reach me LinkedIn ---> linkedin.com/in/prajwal-lonkar-007j
+- 👀 I’m interested in software development , Backend roles.
+- 🌱 I’m currently learning NESTJS
+- 📫 How to reach me LinkedIn ==> linkedin.com/in/prajwal-lonkar-007j
 
 <!---
 prajwal-lonkar/prajwal-lonkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
