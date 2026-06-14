@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prajwal-lonkar
 - 👀 I’m interested in software development , Backend roles.
-- 🌱 I’m currently learning NESTJS
+- 🌱 I’m currently learning Devops
 - 📫 How to reach me LinkedIn ==> linkedin.com/in/prajwal-lonkar-007j
 
 <!---
